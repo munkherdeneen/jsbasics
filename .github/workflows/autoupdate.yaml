@@ -19,6 +19,4 @@ jobs:
           PR_LABELS: "autoupdate"
           EXCLUDED_LABELS: "dependencies,wontfix"
           MERGE_MSG: "Branch was auto-updated."
-          RETRY_COUNT: "5"
-          RETRY_SLEEP: "300"
           MERGE_CONFLICT_ACTION: "fail"

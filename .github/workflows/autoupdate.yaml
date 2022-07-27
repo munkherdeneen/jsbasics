@@ -20,5 +20,5 @@ jobs:
           EXCLUDED_LABELS: "dependencies,wontfix"
           MERGE_MSG: "Branch was auto-updated."
           MERGE_CONFLICT_ACTION: "fail"
-          GITHUB_EVENT_PATH: "mai"
+          GITHUB_EVENT_PATH: "mai daa duu"
           GITHUB_EVENT_NAME: "event_name"
